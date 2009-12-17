@@ -1,0 +1,10 @@
+## Interface: 30100
+## Title: Stuck Up Officers
+## Notes: Counts the ratio of /o to /g chat
+## Author: Karatheya <addons@nadt.net>
+## Version: 0.1
+## SavedVariables: SUODB
+
+embeds.xml
+                                 
+Core.lua
