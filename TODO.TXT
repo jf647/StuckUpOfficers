@@ -1,0 +1,9 @@
+--
+-- $Date$ $Revision$
+--
+
+WoW 3.3 Compatibility
+---------------------
+
+- add localization
+- update TOC

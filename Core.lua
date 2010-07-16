@@ -1,5 +1,5 @@
 --
--- $Id: Core.lua 4469 2009-04-21 17:06:00Z james $
+-- $Date$ $Revision$
 --
 
 -- module setup
